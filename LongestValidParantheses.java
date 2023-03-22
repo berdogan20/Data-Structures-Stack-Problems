@@ -1,4 +1,3 @@
-package LeetCodeStackProblems;
 
 import java.util.Stack;
 
